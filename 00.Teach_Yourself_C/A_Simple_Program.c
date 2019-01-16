@@ -4,7 +4,6 @@ int main(void)
 {
     printf("This is ");
     printf("a simple ");
-    printf("C program.");
     printf("\n");
 
     return 0;
